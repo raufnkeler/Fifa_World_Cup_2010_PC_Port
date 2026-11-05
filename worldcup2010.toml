@@ -31,5 +31,5 @@ keybind_dpad_down = "Down,Shift+Down"
 keybind_dpad_left = "Left,Shift+Left"
 keybind_dpad_right = "Right,Shift+Right"
 round29_xuid_shim = true
-d3d12_debug = false
-log_level = "info"
+d3d12_debug = true
+log_level = "trace"
